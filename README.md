@@ -3,8 +3,8 @@ Exploratory Data Analysis using Python, pandas, matplotlib, seaborn, and plotly.
 ## INTRODUCTION
 This report analyzes NovaRetail Ltd.’s sales data to understand sales performance across four Nigerian cities (Abuja, Lagos, Kano, and Port-Harcourt). 
 The analysis focuses on total revenue, product categories, customer behavior, and sales trends to support better business decisions
-## Buisness Goals
-* This project aim to identify sales trends
+## Business Goals
+* This project aims to identify sales trends
 * Determine top-performing product categories that drive the most revenue.
 * Compare regional sales performance to spot strong and weak markets.
 * Evaluate sales representatives’ performance to reward high achievers and improve training.
@@ -16,8 +16,8 @@ The analysis focuses on total revenue, product categories, customer behavior, an
 <img width="1378" height="593" alt="Screenshot 2025-10-29 125657" src="https://github.com/user-attachments/assets/5d038b33-abe4-495f-9a40-bd0229ca9e83" />
 
 * The total revenue generated was ₦29,521,000 across all cities. Lagos contributed
-the highest share of revenue ₦9,285,500. September 2024 recorded the highest
-monthly sales ₦4,744,500. Revenue from Returning Customers drive the majority
+the highest share of revenue, ₦9,285,500. September 2024 recorded the highest
+monthly sales of ₦4,744,500. Revenue from Returning Customers drives the majority
 (59%) of total revenue. Lagos contributed the highest share of revenue 
 September 2024 recorded the highest monthly sales.
 Revenue from new customers in Lagos accounted for 25630% of
@@ -65,7 +65,7 @@ coupons rather than blanket discounts.
 consistent stock, warranty/upsell bundles, and premium service offerings.
 7. Encourage repeat purchases among one-time buyers: Convert single-purchase customers
 (~70% of customers) with follow-up offers, cross-sell emails, and small loyalty rewards.
-8. Investigate Port Harcourt impact: Since excluding Port Harcourt changes total revenue
+8. Investigate Port Harcourt's impact: Since excluding Port Harcourt changes total revenue
 materially, review operations/returns/late deliveries in that city and optimize logistics or
 marketing spend accordingly.
 
